@@ -100,7 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				895418012199651B00D7BEA0 /* AppDelegate.swift */,
-				895418032199651B00D7BEA0 /* ViewController.swift */,
+				8954183421999BE000D7BEA0 /* tree */,
 				895418052199651B00D7BEA0 /* Main.storyboard */,
 				8954180B2199652200D7BEA0 /* Assets.xcassets */,
 				8954180D2199652200D7BEA0 /* LaunchScreen.storyboard */,
@@ -126,6 +126,14 @@
 				895418262199652300D7BEA0 /* Info.plist */,
 			);
 			path = TreeUITests;
+			sourceTree = "<group>";
+		};
+		8954183421999BE000D7BEA0 /* tree */ = {
+			isa = PBXGroup;
+			children = (
+				895418032199651B00D7BEA0 /* ViewController.swift */,
+			);
+			path = tree;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
